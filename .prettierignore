@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Archivos de distribución / compilación
+dist/
+build/
+out/
+
+# Archivos del sistema y logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de configuración de entorno
+.env
+.env.*
+
+# Dependiendo de tu proyecto, puedes excluir librerías de terceros o fuentes pesadas si las tienes locales
+fonts/
